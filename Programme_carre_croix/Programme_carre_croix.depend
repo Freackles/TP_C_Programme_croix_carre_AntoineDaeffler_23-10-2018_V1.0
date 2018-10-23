@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540287700 source:c:\users\antoine\documents\ludus\f2\1. c\projet codeblocks\exercice\programme_carre_croix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
